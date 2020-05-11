@@ -1,0 +1,26 @@
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.exe
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.deps.json
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.runtimeconfig.json
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.runtimeconfig.dev.json
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.dll
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.pdb
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.csprojAssemblyReference.cache
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.csproj.CoreCompileInputs.cache
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.AssemblyInfoInputs.cache
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.AssemblyInfo.cs
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.dll
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.pdb
+E:\Projects_C#\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.genruntimeconfig.cache
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.exe
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.deps.json
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.runtimeconfig.json
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.runtimeconfig.dev.json
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.dll
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\bin\Debug\netcoreapp3.1\SortingAlgorithm.pdb
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.csprojAssemblyReference.cache
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.csproj.CoreCompileInputs.cache
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.AssemblyInfoInputs.cache
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.AssemblyInfo.cs
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.dll
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.pdb
+E:\Projects_C#\Introducing to Algorithms 3rd Edition\2 - Getting Started\SortingAlgorithm\SortingAlgorithm\obj\Debug\netcoreapp3.1\SortingAlgorithm.genruntimeconfig.cache
